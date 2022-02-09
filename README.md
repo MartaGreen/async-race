@@ -1,1 +1,1 @@
-# portfolio
+# инструкция по запуску проекта находится в файле readme.md в папке async-race-api
